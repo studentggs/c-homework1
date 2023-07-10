@@ -1,0 +1,15 @@
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\homework.csproj.AssemblyReference.cache
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\homework.AssemblyInfoInputs.cache
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\homework.AssemblyInfo.cs
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\homework.csproj.CoreCompileInputs.cache
+C:\Users\ГИК\Desktop\homework\bin\MCD\Debug\net7.0\homework.exe
+C:\Users\ГИК\Desktop\homework\bin\MCD\Debug\net7.0\homework.deps.json
+C:\Users\ГИК\Desktop\homework\bin\MCD\Debug\net7.0\homework.runtimeconfig.json
+C:\Users\ГИК\Desktop\homework\bin\MCD\Debug\net7.0\homework.dll
+C:\Users\ГИК\Desktop\homework\bin\MCD\Debug\net7.0\homework.pdb
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\homework.dll
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\refint\homework.dll
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\homework.pdb
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\homework.genruntimeconfig.cache
+C:\Users\ГИК\Desktop\homework\obj\MCD\Debug\net7.0\ref\homework.dll
